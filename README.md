@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello 👋
+![7ajd4795aq4d1](https://github.com/user-attachments/assets/cdc6164b-3652-4e5c-9dae-f13d6711362b)
 
 <!--
 **LeauJeanx/LeauJeanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
