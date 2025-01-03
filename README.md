@@ -1,10 +1,7 @@
-## H<sub>e</sub><sup>l</sup>l<sub>o</sub> 👋
+## Привет, я Никита 👋
+<ins>
+</ins>
 
-- H
-- e
-- l
-- l
-- o
 
 
 <!--
