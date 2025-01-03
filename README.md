@@ -1,10 +1,10 @@
 ## H<sub>e</sub><sup>l</sup>l<sub>o</sub> 👋
 
--H
--e
--l
--l
--o
+- H
+- e
+- l
+- l
+- o
 
 
 <!--
