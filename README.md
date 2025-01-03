@@ -1,7 +1,6 @@
-## Привет, я Никита 👋
-<hr/>
-h
-
+# Привет, я Никита
+## а ты не Никита
+## поэтому ты лох
 
 <!--
 **LeauJeanx/LeauJeanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
