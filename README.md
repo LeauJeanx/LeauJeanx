@@ -1,4 +1,4 @@
-## <h1 align="center>"👋 Привет, я Никита 👋</h1>
+## <h1 align="center">👋 Привет, я Никита 👋</h1>
 
 Я выпускник **Высшего Колледжа Информатики Новосибирского Государственного Университета**. <sub>![NovosibirskUniversity](https://github.com/user-attachments/assets/3c0b7329-4a1b-463f-80ef-8059b1232c39)</sub>
 
